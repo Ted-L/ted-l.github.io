@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Posts on Ted L&#39;s blog</title>
+    <link>https://Ted-L.github.io/en/post/</link>
+    <description>Recent content in Posts on Ted L&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>tedliuzy@hotmail.com (TED LZY)</managingEditor>
+    <webMaster>tedliuzy@hotmail.com (TED LZY)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 06 Mar 2025 11:21:47 +0800</lastBuildDate>
+    
+        <atom:link href="https://Ted-L.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>GitFixPushError</title>
+        <link>https://Ted-L.github.io/en/post/gitfixpusherror/</link>
+        <pubDate>Thu, 06 Mar 2025 11:21:47 +0800</pubDate>
+        <author>tedliuzy@hotmail.com (TED LZY)</author>
+        <atom:modified>Thu, 06 Mar 2025 11:21:47 +0800</atom:modified>
+        <guid>https://Ted-L.github.io/en/post/gitfixpusherror/</guid>
+        <description>The error message you&amp;rsquo;re encountering indicates that your local master branch is behind the remote master branch on GitHub. To resolve this issue, you need to update your local branch with the changes from the remote branch before you can push your changes.
+Here’s how you can fix it: Steps to Fix How to fix:
+(base) tedl@Teds-MacBook-Pro public % git push To https://github.com/Ted-L/Ted-L.github.io.git ! [rejected] master -&amp;gt; master (non-fast-forward) error: failed to push some refs to &#39;https://github.</description>
+        
+        <dc:creator>TED LZY</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
