@@ -14,11 +14,31 @@
     <managingEditor>tedliuzy@hotmail.com (TED LZY)</managingEditor>
     <webMaster>tedliuzy@hotmail.com (TED LZY)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 21 Nov 2021 12:35:19 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 11:21:47 +0800</lastBuildDate>
     
         <atom:link href="https://Ted-L.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>GitFixPushError</title>
+        <link>https://Ted-L.github.io/en/posts/gitfixpusherror/</link>
+        <pubDate>Thu, 06 Mar 2025 11:21:47 +0800</pubDate>
+        <author>tedliuzy@hotmail.com (TED LZY)</author>
+        <atom:modified>Thu, 06 Mar 2025 11:21:47 +0800</atom:modified>
+        <guid>https://Ted-L.github.io/en/posts/gitfixpusherror/</guid>
+        <description>The error message you&amp;rsquo;re encountering indicates that your local master branch is behind the remote master branch on GitHub. To resolve this issue, you need to update your local branch with the changes from the remote branch before you can push your changes.
+Here’s how you can fix it: Steps to Fix How to fix:
+(base) tedl@Teds-MacBook-Pro public % git push To https://github.com/Ted-L/Ted-L.github.io.git ! [rejected] master -&amp;gt; master (non-fast-forward) error: failed to push some refs to &#39;https://github.</description>
+        
+        <dc:creator>TED LZY</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>HomeuserWifiTest</title>
