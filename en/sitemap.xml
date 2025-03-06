@@ -21,17 +21,8 @@
                 href="https://Ted-L.github.io/en/"
                 />
   </url><url>
-    <loc>https://Ted-L.github.io/en/posts/gitfixpusherror/</loc>
-    <lastmod>2025-03-06T11:21:47+08:00</lastmod>
-  </url><url>
-    <loc>https://Ted-L.github.io/en/posts/</loc>
-    <lastmod>2025-03-06T11:21:47+08:00</lastmod>
-  </url><url>
-    <loc>https://Ted-L.github.io/en/resume/</loc>
-    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://Ted-L.github.io/en/categories/</loc>
-    <lastmod>2021-11-21T12:35:19+08:00</lastmod>
+    <lastmod>2025-03-06T11:21:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -43,10 +34,19 @@
                 href="https://Ted-L.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://Ted-L.github.io/en/posts/homeuserwifitest/</loc>
-    <lastmod>2021-11-21T12:35:19+08:00</lastmod>
+    <loc>https://Ted-L.github.io/en/posts/gitfixpusherror/</loc>
+    <lastmod>2025-03-06T11:21:47+08:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/posts/</loc>
+    <lastmod>2025-03-06T11:21:47+08:00</lastmod>
   </url><url>
     <loc>https://Ted-L.github.io/en/categories/work/</loc>
+    <lastmod>2025-03-06T11:21:47+08:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/resume/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/posts/homeuserwifitest/</loc>
     <lastmod>2021-11-21T12:35:19+08:00</lastmod>
   </url><url>
     <loc>https://Ted-L.github.io/en/posts/mesh/</loc>
@@ -77,6 +77,9 @@
     <loc>https://Ted-L.github.io/en/tags/volunteer/</loc>
     <lastmod>2021-08-08T13:51:40+08:00</lastmod>
   </url><url>
+    <loc>https://Ted-L.github.io/en/posts/dataanalytics/</loc>
+    <lastmod>2021-07-19T03:32:01+08:00</lastmod>
+  </url><url>
     <loc>https://Ted-L.github.io/en/posts/git_ci_cd/</loc>
     <lastmod>2021-06-05T20:32:01+08:00</lastmod>
   </url><url>
@@ -86,11 +89,14 @@
     <loc>https://Ted-L.github.io/en/posts/sgcare_week02_03/</loc>
     <lastmod>2021-05-08T15:55:14+08:00</lastmod>
   </url><url>
+    <loc>https://Ted-L.github.io/en/tags/finance/</loc>
+    <lastmod>2021-05-07T15:50:33+08:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/posts/finance102_basicconcept/</loc>
+    <lastmod>2021-05-07T15:50:33+08:00</lastmod>
+  </url><url>
     <loc>https://Ted-L.github.io/en/posts/sgcare_week01/</loc>
     <lastmod>2021-04-23T16:30:14+08:00</lastmod>
-  </url><url>
-    <loc>https://Ted-L.github.io/en/tags/finance/</loc>
-    <lastmod>2021-04-02T14:35:33+08:00</lastmod>
   </url><url>
     <loc>https://Ted-L.github.io/en/posts/finance101_basicconcept/</loc>
     <lastmod>2021-04-02T14:35:33+08:00</lastmod>
@@ -136,6 +142,78 @@
   </url><url>
     <loc>https://Ted-L.github.io/en/posts/markdown-syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/tags/privacy/</loc>
+    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/posts/rich-content/</loc>
+    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/tags/shortcodes/</loc>
+    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/tags/hugo/</loc>
+    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/categories/hugo/</loc>
+    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/posts/syntax-highlight/</loc>
+    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/posts/math-typesetting/</loc>
+    <lastmod>2019-12-17T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/tags/amoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/tags/bamoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/tags/emoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/posts/emoji-support/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/tags/gamoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/tags/namoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/categories/diagram/</loc>
+    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/posts/test-viz/</loc>
+    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/posts/test-wavedrom/</loc>
+    <lastmod>2019-11-18T18:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/posts/test-chartjs/</loc>
+    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/posts/test-js-sequence-diagrams/</loc>
+    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/tags/diagram/</loc>
+    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/posts/test-mermaid/</loc>
+    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/categories/math/</loc>
+    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/posts/test-mathjax/</loc>
+    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/posts/test-katex/</loc>
+    <lastmod>2019-11-15T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://Ted-L.github.io/en/posts/test-flowchart/</loc>
+    <lastmod>2019-11-14T12:00:06+09:00</lastmod>
   </url><url>
     <loc>https://Ted-L.github.io/en/gallery/cartoon/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>

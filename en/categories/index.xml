@@ -14,7 +14,7 @@
     <managingEditor>tedliuzy@hotmail.com (TED LZY)</managingEditor>
     <webMaster>tedliuzy@hotmail.com (TED LZY)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 21 Nov 2021 12:35:19 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 11:21:47 +0800</lastBuildDate>
     
         <atom:link href="https://Ted-L.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,7 +23,7 @@
       <item>
         <title>work</title>
         <link>https://Ted-L.github.io/en/categories/work/</link>
-        <pubDate>Sun, 21 Nov 2021 12:35:19 +0800</pubDate>
+        <pubDate>Thu, 06 Mar 2025 11:21:47 +0800</pubDate>
         <author>tedliuzy@hotmail.com (TED LZY)</author>
         
         <guid>https://Ted-L.github.io/en/categories/work/</guid>
@@ -45,6 +45,60 @@
         <author>tedliuzy@hotmail.com (TED LZY)</author>
         
         <guid>https://Ted-L.github.io/en/categories/life/</guid>
+        <description></description>
+        
+        <dc:creator>TED LZY</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>hugo</title>
+        <link>https://Ted-L.github.io/en/categories/hugo/</link>
+        <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
+        <author>tedliuzy@hotmail.com (TED LZY)</author>
+        
+        <guid>https://Ted-L.github.io/en/categories/hugo/</guid>
+        <description></description>
+        
+        <dc:creator>TED LZY</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>diagram</title>
+        <link>https://Ted-L.github.io/en/categories/diagram/</link>
+        <pubDate>Mon, 18 Nov 2019 21:00:06 +0900</pubDate>
+        <author>tedliuzy@hotmail.com (TED LZY)</author>
+        
+        <guid>https://Ted-L.github.io/en/categories/diagram/</guid>
+        <description></description>
+        
+        <dc:creator>TED LZY</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>math</title>
+        <link>https://Ted-L.github.io/en/categories/math/</link>
+        <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
+        <author>tedliuzy@hotmail.com (TED LZY)</author>
+        
+        <guid>https://Ted-L.github.io/en/categories/math/</guid>
         <description></description>
         
         <dc:creator>TED LZY</dc:creator>

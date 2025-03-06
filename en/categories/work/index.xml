@@ -14,11 +14,37 @@
     <managingEditor>tedliuzy@hotmail.com (TED LZY)</managingEditor>
     <webMaster>tedliuzy@hotmail.com (TED LZY)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 21 Nov 2021 12:35:19 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 11:21:47 +0800</lastBuildDate>
     
         <atom:link href="https://Ted-L.github.io/en/categories/work/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>GitFixPushError</title>
+        <link>https://Ted-L.github.io/en/posts/gitfixpusherror/</link>
+        <pubDate>Thu, 06 Mar 2025 11:21:47 +0800</pubDate>
+        <author>tedliuzy@hotmail.com (TED LZY)</author>
+        <atom:modified>Thu, 06 Mar 2025 11:21:47 +0800</atom:modified>
+        <guid>https://Ted-L.github.io/en/posts/gitfixpusherror/</guid>
+        <description>The error message you&amp;rsquo;re encountering indicates that your local master branch is behind the remote master branch on GitHub. To resolve this issue, you need to update your local branch with the changes from the remote branch before you can push your changes.
+Here’s how you can fix it: Steps to Fix How to fix:
+(base) tedl@Teds-MacBook-Pro public % git push To https://github.com/Ted-L/Ted-L.github.io.git ! [rejected] master -&amp;gt; master (non-fast-forward) error: failed to push some refs to &#39;https://github.</description>
+        
+        <dc:creator>TED LZY</dc:creator>
+        <media:content url="https://Ted-L.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+          
+            
+              <category>work</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>HomeuserWifiTest</title>
@@ -98,6 +124,30 @@ Follow the steps below to get the utility running and monitor the file generate 
       </item>
       
       <item>
+        <title>Data_analytics</title>
+        <link>https://Ted-L.github.io/en/posts/dataanalytics/</link>
+        <pubDate>Mon, 19 Jul 2021 03:32:01 +0800</pubDate>
+        <author>tedliuzy@hotmail.com (TED LZY)</author>
+        <atom:modified>Mon, 19 Jul 2021 03:32:01 +0800</atom:modified>
+        <guid>https://Ted-L.github.io/en/posts/dataanalytics/</guid>
+        <description>Learn data analytics Objectives  Learn some knowledge about data analytics Earn a certificate  Background  On a big picture, data is becoming more and more usefuyl throughout many industries nowadays, the need for good data anylyst is booming; for my work, many times I have to manually extract information from teammembers Emails, sort data from excel sheet, consolidate information from bug tracking system, being more experinced with data analyzing tools would be a good help; on my personal life, I have some investment and going for some more investiment, learn data analytics would benefit infromation gathering and analyzing.</description>
+        
+        <dc:creator>TED LZY</dc:creator>
+        <media:content url="https://Ted-L.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+          
+            
+              <category>work</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
         <title>Git_Ci_Cd</title>
         <link>https://Ted-L.github.io/en/posts/git_ci_cd/</link>
         <pubDate>Sat, 05 Jun 2021 20:32:01 +0800</pubDate>
@@ -110,6 +160,37 @@ Follow the steps below to get the utility running and monitor the file generate 
         <media:content url="https://Ted-L.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
+        
+        
+          
+            
+              <category>work</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Finance101_02_basicConcept</title>
+        <link>https://Ted-L.github.io/en/posts/finance102_basicconcept/</link>
+        <pubDate>Fri, 07 May 2021 15:50:33 +0800</pubDate>
+        <author>tedliuzy@hotmail.com (TED LZY)</author>
+        <atom:modified>Fri, 07 May 2021 15:50:33 +0800</atom:modified>
+        <guid>https://Ted-L.github.io/en/posts/finance102_basicconcept/</guid>
+        <description>Basic finance and accouting fundamentals and concepts  The title starting with &amp;ldquo;Finance101_xxx&amp;rdquo; relates to the financial knowledges and skills learnt during schools&#39; accounting and finance modules, as well as other knowledges picked up during daily life
+ Accouting system  Financial accouting Managerial accouting Tax  Key financial statements  Balance sheet Income statement Cash flow statement  Singapore finance reporting system (SFRS) based on the International Financial Reporting Standards (IFRS).</description>
+        
+        <dc:creator>TED LZY</dc:creator>
+        <media:content url="https://Ted-L.github.io/images/organization/dollarSign.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>finance</category>
+            
+          
         
         
           
