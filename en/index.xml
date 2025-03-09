@@ -549,7 +549,7 @@ Now this is the second paragraph.</description>
         
           
             
-              <category>hugo</category>
+              <category>code</category>
             
           
         
@@ -645,12 +645,14 @@ We need goldmark katex entension which is not yet we have:
         
           
             
+              <category>diagram</category>
+            
           
         
         
           
             
-              <category>diagram</category>
+              <category>work</category>
             
           
         
@@ -677,12 +679,14 @@ We need goldmark katex entension which is not yet we have:
         
           
             
+              <category>diagram</category>
+            
           
         
         
           
             
-              <category>diagram</category>
+              <category>work</category>
             
           
         
@@ -709,12 +713,14 @@ We need goldmark katex entension which is not yet we have:
         
           
             
+              <category>diagram</category>
+            
           
         
         
           
             
-              <category>diagram</category>
+              <category>work</category>
             
           
         
@@ -741,12 +747,14 @@ We need goldmark katex entension which is not yet we have:
         
           
             
+              <category>diagram</category>
+            
           
         
         
           
             
-              <category>diagram</category>
+              <category>work</category>
             
           
         
@@ -780,7 +788,7 @@ We need goldmark katex entension which is not yet we have:
         
           
             
-              <category>diagram</category>
+              <category>work</category>
             
           
         
@@ -808,12 +816,14 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</description>
         
           
             
+              <category>math</category>
+            
           
         
         
           
             
-              <category>math</category>
+              <category>work</category>
             
           
         
@@ -847,12 +857,14 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         
           
             
+              <category>math</category>
+            
           
         
         
           
             
-              <category>math</category>
+              <category>work</category>
             
           
         
@@ -879,12 +891,14 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         
           
             
+              <category>diagram</category>
+            
           
         
         
           
             
-              <category>diagram</category>
+              <category>work</category>
             
           
         
