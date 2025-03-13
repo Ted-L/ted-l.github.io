@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Galleries on Ted L&#39;s blog</title>
-    <link>https://Ted-L.github.io/en/gallery/</link>
+    <link>https://ted-l.github.io/en/gallery/</link>
     <description>Recent content in Galleries on Ted L&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,21 +16,21 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 31 Oct 2019 10:20:16 +0900</lastBuildDate>
     
-        <atom:link href="https://Ted-L.github.io/en/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ted-l.github.io/en/gallery/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Cartoon</title>
-        <link>https://Ted-L.github.io/en/gallery/cartoon/</link>
+        <link>https://ted-l.github.io/en/gallery/cartoon/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>tedliuzy@hotmail.com (TED LZY)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>https://Ted-L.github.io/en/gallery/cartoon/</guid>
+        <guid>https://ted-l.github.io/en/gallery/cartoon/</guid>
         <description>Sample images from Pixabay</description>
         
         <dc:creator>TED LZY</dc:creator>
-        <media:content url="https://Ted-L.github.io/images/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ted-l.github.io/images/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -40,16 +40,16 @@
       
       <item>
         <title>Gallery</title>
-        <link>https://Ted-L.github.io/en/gallery/photo/</link>
+        <link>https://ted-l.github.io/en/gallery/photo/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>tedliuzy@hotmail.com (TED LZY)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>https://Ted-L.github.io/en/gallery/photo/</guid>
+        <guid>https://ted-l.github.io/en/gallery/photo/</guid>
         <description>The following are some project or work I have done. It includes:
  Work-related - Multi-AP project for most major TelCo company, Singtel WiFi smartroaming AP router, WiFi easymesh, PUB waterlevel monitoring system, weather station on HDB rooftop. Off-work-related - convinience store in school canteen, fruit stall, ceremics work, Android competition award poster, etc,.  </description>
         
         <dc:creator>TED LZY</dc:creator>
-        <media:content url="https://Ted-L.github.io/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ted-l.github.io/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

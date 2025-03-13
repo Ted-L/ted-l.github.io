@@ -7,62 +7,31 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>finance on Ted L&#39;s blog</title>
-    <link>https://Ted-L.github.io/en/tags/finance/</link>
+    <link>https://ted-l.github.io/en/tags/finance/</link>
     <description>Recent content in finance on Ted L&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>tedliuzy@hotmail.com (TED LZY)</managingEditor>
     <webMaster>tedliuzy@hotmail.com (TED LZY)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 07 May 2021 15:50:33 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 Apr 2021 14:35:33 +0800</lastBuildDate>
     
-        <atom:link href="https://Ted-L.github.io/en/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ted-l.github.io/en/tags/finance/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>Finance101_02_basicConcept</title>
-        <link>https://Ted-L.github.io/en/posts/finance102_basicconcept/</link>
-        <pubDate>Fri, 07 May 2021 15:50:33 +0800</pubDate>
-        <author>tedliuzy@hotmail.com (TED LZY)</author>
-        <atom:modified>Fri, 07 May 2021 15:50:33 +0800</atom:modified>
-        <guid>https://Ted-L.github.io/en/posts/finance102_basicconcept/</guid>
-        <description>Basic finance and accouting fundamentals and concepts  The title starting with &amp;ldquo;Finance101_xxx&amp;rdquo; relates to the financial knowledges and skills learnt during schools&#39; accounting and finance modules, as well as other knowledges picked up during daily life
- Accouting system  Financial accouting Managerial accouting Tax  Key financial statements  Balance sheet Income statement Cash flow statement  Singapore finance reporting system (SFRS) based on the International Financial Reporting Standards (IFRS).</description>
-        
-        <dc:creator>TED LZY</dc:creator>
-        <media:content url="https://Ted-L.github.io/images/organization/dollarSign.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>finance</category>
-            
-          
-        
-        
-          
-            
-              <category>work</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
         <title>Finance101_basicConcept</title>
-        <link>https://Ted-L.github.io/en/posts/finance101_basicconcept/</link>
+        <link>https://ted-l.github.io/en/posts/finance101_basicconcept/</link>
         <pubDate>Fri, 02 Apr 2021 14:35:33 +0800</pubDate>
         <author>tedliuzy@hotmail.com (TED LZY)</author>
         <atom:modified>Fri, 02 Apr 2021 14:35:33 +0800</atom:modified>
-        <guid>https://Ted-L.github.io/en/posts/finance101_basicconcept/</guid>
+        <guid>https://ted-l.github.io/en/posts/finance101_basicconcept/</guid>
         <description>Basic finance and accouting fundamentals and concepts  The title starting with &amp;ldquo;Finance101_xxx&amp;rdquo; relates to the financial knowledges and skills learnt during schools&#39; accounting and finance modules, as well as other knowledges picked up during daily life
  Accouting system  Financial accouting Managerial accouting Tax  Key financial statements  Balance sheet Income statement Cash flow statement  Singapore finance reporting system (SFRS) based on the International Financial Reporting Standards (IFRS).</description>
         
         <dc:creator>TED LZY</dc:creator>
-        <media:content url="https://Ted-L.github.io/images/organization/dollarSign.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ted-l.github.io/images/organization/dollarSign.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -84,16 +53,16 @@
       
       <item>
         <title>Property_affordability</title>
-        <link>https://Ted-L.github.io/en/posts/propertyapproach/</link>
+        <link>https://ted-l.github.io/en/posts/propertyapproach/</link>
         <pubDate>Fri, 02 Apr 2021 14:35:33 +0800</pubDate>
         <author>tedliuzy@hotmail.com (TED LZY)</author>
         <atom:modified>Fri, 02 Apr 2021 14:35:33 +0800</atom:modified>
-        <guid>https://Ted-L.github.io/en/posts/propertyapproach/</guid>
+        <guid>https://ted-l.github.io/en/posts/propertyapproach/</guid>
         <description>Property planning  House is important for some people, ceritainly for myself as well. If you think you&amp;rsquo;re ready to buy a house, the first question is like to be &amp;ldquo;how much can I afford&amp;rdquo;, some calculation needed to be done for the fordability and appetite study so we&amp;rsquo;d know how to plan better.
  Background  This post is on study my own situation and have a rough idea what&amp;rsquo;s my affordability to better plan my next move.</description>
         
         <dc:creator>TED LZY</dc:creator>
-        <media:content url="https://Ted-L.github.io/images/organization/dollarSign.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ted-l.github.io/images/organization/dollarSign.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

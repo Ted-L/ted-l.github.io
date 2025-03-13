@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>index on Ted L&#39;s blog</title>
-    <link>https://Ted-L.github.io/en/tags/index/</link>
+    <link>https://ted-l.github.io/en/tags/index/</link>
     <description>Recent content in index on Ted L&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,17 +15,17 @@
     <webMaster>tedliuzy@hotmail.com (TED LZY)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://Ted-L.github.io/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ted-l.github.io/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Posts</title>
-        <link>https://Ted-L.github.io/en/posts/</link>
-        <pubDate>Thu, 06 Mar 2025 11:21:47 +0800</pubDate>
+        <link>https://ted-l.github.io/en/posts/</link>
+        <pubDate>Thu, 13 Mar 2025 11:24:40 +0800</pubDate>
         <author>tedliuzy@hotmail.com (TED LZY)</author>
         
-        <guid>https://Ted-L.github.io/en/posts/</guid>
+        <guid>https://ted-l.github.io/en/posts/</guid>
         <description></description>
         
         <dc:creator>TED</dc:creator>

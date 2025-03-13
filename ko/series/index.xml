@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Ted L&#39;s blog</title>
-    <link>https://Ted-L.github.io/ko/series/</link>
+    <link>https://ted-l.github.io/ko/series/</link>
     <description>Recent content in Series on Ted L&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -15,7 +15,7 @@
     <webMaster>tedliuzy@hotmail.com (TED LZY)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://Ted-L.github.io/ko/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ted-l.github.io/ko/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       

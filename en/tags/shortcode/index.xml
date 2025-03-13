@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>shortcode on Ted L&#39;s blog</title>
-    <link>https://Ted-L.github.io/en/tags/shortcode/</link>
+    <link>https://ted-l.github.io/en/tags/shortcode/</link>
     <description>Recent content in shortcode on Ted L&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,22 +16,22 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Jan 2020 06:40:51 +0900</lastBuildDate>
     
-        <atom:link href="https://Ted-L.github.io/en/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ted-l.github.io/en/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Shortcodes example</title>
-        <link>https://Ted-L.github.io/en/posts/shortcodes/</link>
+        <link>https://ted-l.github.io/en/posts/shortcodes/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
         <author>tedliuzy@hotmail.com (TED LZY)</author>
         <atom:modified>Sat, 25 Jan 2020 06:40:51 +0900</atom:modified>
-        <guid>https://Ted-L.github.io/en/posts/shortcodes/</guid>
+        <guid>https://ted-l.github.io/en/posts/shortcodes/</guid>
         <description>Markdownify box This is boxmd shortcode, the markdown syntax works here Simple box This is **box** shortcode, markdown syntax doesn&#39;t work here  Code tabs Make it easy to switch between different code
 java javascript  1  System.out.println(&amp;#39;Hello World!&amp;#39;);     1  console.log(&amp;#39;Hello World!&amp;#39;);       &#39;use strict&#39;; var containerId = JSON.parse(&#34;\&#34;77a71ba3bb9ffac7\&#34;&#34;); var containerElem = document.getElementById(containerId); var codetabLinks = null; var codetabContents = null; var ids = []; if (containerElem) { codetabLinks = containerElem.</description>
         
         <dc:creator>TED LZY</dc:creator>
-        <media:content url="https://Ted-L.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ted-l.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
