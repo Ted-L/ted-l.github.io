@@ -2,84 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ted-l.github.io/ko/ko/</loc>
+    <loc>https://Ted-L.github.io/ko/ko/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url><url>
-    <loc>https://ted-l.github.io/ko/ko/archive/</loc>
+    <loc>https://Ted-L.github.io/ko/ko/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url><url>
-    <loc>https://ted-l.github.io/ko/</loc>
+    <loc>https://Ted-L.github.io/ko/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ted-l.github.io/en/"
+                href="https://Ted-L.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://ted-l.github.io/ko/"
+                href="https://Ted-L.github.io/ko/"
                 />
   </url><url>
-    <loc>https://ted-l.github.io/ko/ko/about/</loc>
+    <loc>https://Ted-L.github.io/ko/ko/about/</loc>
     <lastmod>2019-10-09T11:44:14+09:00</lastmod>
   </url><url>
-    <loc>https://ted-l.github.io/ko/ko/gallery/photo/</loc>
+    <loc>https://Ted-L.github.io/ko/ko/gallery/photo/</loc>
     <lastmod>2018-10-12T10:20:16+09:00</lastmod>
   </url><url>
-    <loc>https://ted-l.github.io/ko/ko/gallery/cartoon/</loc>
+    <loc>https://Ted-L.github.io/ko/ko/gallery/cartoon/</loc>
     <lastmod>2018-10-11T10:20:16+09:00</lastmod>
   </url><url>
-    <loc>https://ted-l.github.io/ko/en/</loc>
+    <loc>https://Ted-L.github.io/ko/en/</loc>
   </url><url>
-    <loc>https://ted-l.github.io/ko/categories/</loc>
+    <loc>https://Ted-L.github.io/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ted-l.github.io/en/categories/"
+                href="https://Ted-L.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://ted-l.github.io/ko/categories/"
+                href="https://Ted-L.github.io/ko/categories/"
                 />
   </url><url>
-    <loc>https://ted-l.github.io/ko/tags/index/</loc>
+    <loc>https://Ted-L.github.io/ko/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ted-l.github.io/en/tags/index/"
+                href="https://Ted-L.github.io/en/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://ted-l.github.io/ko/tags/index/"
+                href="https://Ted-L.github.io/ko/tags/index/"
                 />
   </url><url>
-    <loc>https://ted-l.github.io/ko/ko/posts/</loc>
+    <loc>https://Ted-L.github.io/ko/ko/posts/</loc>
   </url><url>
-    <loc>https://ted-l.github.io/ko/series/</loc>
+    <loc>https://Ted-L.github.io/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ted-l.github.io/en/series/"
+                href="https://Ted-L.github.io/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://ted-l.github.io/ko/series/"
+                href="https://Ted-L.github.io/ko/series/"
                 />
   </url><url>
-    <loc>https://ted-l.github.io/ko/tags/</loc>
+    <loc>https://Ted-L.github.io/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ted-l.github.io/en/tags/"
+                href="https://Ted-L.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://ted-l.github.io/ko/tags/"
+                href="https://Ted-L.github.io/ko/tags/"
                 />
   </url>
 </urlset>

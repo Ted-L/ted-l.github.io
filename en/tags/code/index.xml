@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>code on Ted L&#39;s blog</title>
-    <link>https://ted-l.github.io/en/tags/code/</link>
+    <link>https://Ted-L.github.io/en/tags/code/</link>
     <description>Recent content in code on Ted L&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,22 +16,22 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 13 Mar 2025 11:24:40 +0800</lastBuildDate>
     
-        <atom:link href="https://ted-l.github.io/en/tags/code/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://Ted-L.github.io/en/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>GoogleWebSpeechApi</title>
-        <link>https://ted-l.github.io/en/posts/googlewebspeechapi/</link>
+        <link>https://Ted-L.github.io/en/posts/googlewebspeechapi/</link>
         <pubDate>Thu, 13 Mar 2025 11:24:40 +0800</pubDate>
         <author>tedliuzy@hotmail.com (TED LZY)</author>
         <atom:modified>Thu, 13 Mar 2025 11:24:40 +0800</atom:modified>
-        <guid>https://ted-l.github.io/en/posts/googlewebspeechapi/</guid>
+        <guid>https://Ted-L.github.io/en/posts/googlewebspeechapi/</guid>
         <description>How to Use Google Web Speech API 1. Prerequisites  Internet Connection: The API requires an internet connection as it processes audio on Google&amp;rsquo;s servers. Python Environment: Ensure you have Python installed on your machine.  2. Install Required Libraries Install the SpeechRecognition library, which provides a simple interface to the Google Web Speech API:
 1  pip install SpeechRecognition pydub   3. Install FFmpeg (if needed) If you plan to work with audio files (like M4A), install FFmpeg:</description>
         
         <dc:creator>TED LZY</dc:creator>
-        <media:content url="https://ted-l.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://Ted-L.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -47,6 +47,34 @@
               <category>work</category>
             
           
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Syntax highlighting</title>
+        <link>https://Ted-L.github.io/en/posts/syntax-highlight/</link>
+        <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
+        <author>tedliuzy@hotmail.com (TED LZY)</author>
+        <atom:modified>Wed, 18 Dec 2019 10:33:41 +0900</atom:modified>
+        <guid>https://Ted-L.github.io/en/posts/syntax-highlight/</guid>
+        <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly. More about tuning syntax highlighting is the Hugo documentation. Diff 1 2 3 4 5 6 7 8 9 10 *** /path/to/original &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1 **** ! This is a line. --- 1 --- ! This is a replacement line. It is important to spell -removed line +new line *** /path/to/original</description>
+        
+        <dc:creator>Jeus</dc:creator>
+        <media:content url="https://Ted-L.github.io/images/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+        
         
         
           
