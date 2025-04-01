@@ -109,6 +109,33 @@ Testing scenario Home user&amp;rsquo;s Internet normally consist: Optical Networ
       </item>
       
       <item>
+        <title>markdownToPpt</title>
+        <link>https://Ted-L.github.io/en/posts/markdowntoppt/</link>
+        <pubDate>Sun, 21 Nov 2021 12:35:19 +0800</pubDate>
+        <author>tedliuzy@hotmail.com (TED LZY)</author>
+        <atom:modified>Sun, 21 Nov 2021 12:35:19 +0800</atom:modified>
+        <guid>https://Ted-L.github.io/en/posts/markdowntoppt/</guid>
+        <description>Markdown to Presentation Guide 🖥️ 1. Tools for Conversion Choose from these popular markdown-to-PPT tools:
+  Marp:
+1 2 3 4 5 6 7 8 9 10 11 12  --- theme: default --- # Slide 1 Content for first slide --- # Slide 2 - Bullet point 1 - Bullet point 2     Reveal.js:
+1 2 3 4 5 6  &amp;lt;section data-markdown&amp;gt; &amp;lt;script type=&amp;#34;text/template&amp;#34;&amp;gt; ## Slide 1 Content here &amp;lt;/script&amp;gt; &amp;lt;/section&amp;gt;     Slidev:</description>
+        
+        <dc:creator>TED LZY</dc:creator>
+        <media:content url="https://Ted-L.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+          
+            
+              <category>work</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
         <title>Mesh</title>
         <link>https://Ted-L.github.io/en/posts/mesh/</link>
         <pubDate>Fri, 29 Oct 2021 01:40:50 +0800</pubDate>
